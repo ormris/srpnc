@@ -1,0 +1,6 @@
+[package]
+name = "srpnc"
+version = "0.0.1"
+authors = ["ormris"]
+
+[dependencies]
